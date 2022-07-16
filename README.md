@@ -1,4 +1,4 @@
-![header](https://github.com/hunsii?type=wave&color=auto&height=300&section=header&text=Hi%20there👋&fontSize=90)
+![header](https://github.com/hunsii?type=wave&color=auto&height=300&section=header&text=Hi%20there&fontSize=90)
 ###   
 
 <!--
