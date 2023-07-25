@@ -5,7 +5,7 @@
 <div align=center>
     <h3>💬 Contact 💬</h3>
     <div align=center>
-        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hunsii0213@gmail.com" a="mailto:hunsii0213@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hunsi0213@gmail.com" a="mailto:hunsi0213@gmail.com">
     </div>
     <br>
 	<h3>📚 Languages & kills 📚</h3>
