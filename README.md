@@ -1,4 +1,41 @@
-Hi!
+<div align=center>
+    <h2>👋 Hi, I'm hunsii 👋</h2>
+</div>
+
+<div align=center>
+    <h3>💬 Contact 💬</h3>
+    <div align=center>
+        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hunsii0213@gmail.com" a="mailto:hunsii0213@gmail.com">
+    </div>
+    <br>
+	<h3>📚 Languages & kills 📚</h3>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" />
+	<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
+	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
+    <br>
+    <br>
+    <h3>🛠 Tools 🛠</h3>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	
+</div>
+<br>
+<br>
+
+---
+<br>
+
+
+<div align=center>
+    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunsii&layout=compact">
+    <br>
+    <br>
+    <img align=center src="https://github-readme-stats.vercel.app/api?username=hunsii&show_icons=true">
+</div>
 
 
 
